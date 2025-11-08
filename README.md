@@ -21,3 +21,19 @@ include a dark/light mode toogle and siplay scoress clearly in card. Make sure f
 
 <img width="1810" height="354" alt="image" src="https://github.com/user-attachments/assets/2f5e2a08-451c-4a13-abc4-748a76c11088" />
 <img width="1761" height="353" alt="image" src="https://github.com/user-attachments/assets/66f46161-cdf0-494b-82cb-c92f3646f701" />
+
+
+
+# Assignment 03
+**Prompt:**
+make a python CLI app that checks the mood of the user's text. Use textblob to find the mood (sentiment)/ the app 
+should run in the terminal , not in a brwoser . when the use types some textthe app should: 1. detect if the mood is happy,
+sad, angry, r natural . 2. show an emoji and color for that mood: happy > yellow color and emoji, sad > blue color and emoji , angry > red
+color and meoji , matural > white color and emoji . 3. show a random motivational quote for that mood. use simple print messages 
+and colors in the terminal (you can use the `colorama` library) . make the interface fun and easy to use . example : user types "I am feeling 
+great today!" output: you seem happy1 "The best way to predict the futre is to create it ." text color
+is yellow.
+
+
+<img width="656" height="273" alt="image" src="https://github.com/user-attachments/assets/68db0e6d-5144-447f-a379-9d988e60691c" />
+
